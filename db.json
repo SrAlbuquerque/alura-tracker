@@ -1,0 +1,23 @@
+{
+  "projects": [
+    {
+      "name": "gasf",
+      "id": 1
+    },
+    {
+      "name": "fsd",
+      "id": 2
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "durationInSeconds": 120,
+      "description": "Config do ambiente",
+      "project": {
+        "id": 1,
+        "name": "Alura Tracker"
+      }
+    }
+  ]
+}
